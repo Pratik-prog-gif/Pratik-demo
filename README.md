@@ -1,3 +1,4 @@
 # Pratik-demo
-This is my first Git Repository
-Author-Pratik Ghosh
+This is my first Git Repository.
+<br>
+Author-Pratik Ghosh.
